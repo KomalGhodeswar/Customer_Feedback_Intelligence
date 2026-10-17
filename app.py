@@ -11,7 +11,7 @@ st.set_page_config(
 )
 
 
-DATA_PATH = "archive\Customer_Feedback_Cleaned.csv"
+DATA_PATH = "Customer_Feedback_Cleaned.csv"
 ASPECT_PATH = "Aspect_Sentiment_Records.csv"
 
 
